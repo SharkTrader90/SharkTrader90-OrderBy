@@ -25,7 +25,7 @@ import java.util.List;
  * lowest salary:
  *
  *      SELECT * FROM employee WHERE current = true ORDER BY salary DESC
- *
+ *dfgxvhnmjvxvbnxvbnxcvbncvxbndhngdfgnbfdgdfgndfgndfgndfgndf
  * Additional reference material if needed: https://www.w3schools.com/sql/sql_orderby.asp
  */
 public class OrderResultSetActivity {
